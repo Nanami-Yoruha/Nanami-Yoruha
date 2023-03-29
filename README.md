@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently studying in Sysu
 - 🌱 I’m currently learning how to build my first blog
+- 📌 https://github.com/Nanami-Yoruha/Nanami-Yoruha
